@@ -8,7 +8,8 @@ curso de **Técnico em Desenvolvimento de Sistemas/2026** na ETEC Jaú.
 # Sobre o projeto 
 *`IndexPaginaPessoal/`**: Página Web inicial construída em HTML5 explorando estilos inline de fontes, cores e imagens.
 
-
+## Layout da Pagina HTML5
+![Site Pagina Principal](imagens.png)
 
 # Tecnologias utilizadas
 
